@@ -1,0 +1,8 @@
+instance/
+static/
+.webassets-cache
+*.pyc
+*.sqlite3
+*.py~
+.idea
+venv
