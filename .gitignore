@@ -3,6 +3,7 @@ static/
 .webassets-cache
 *.pyc
 *.sqlite3
+*.sql
 *.py~
 .idea
 venv
